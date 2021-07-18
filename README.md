@@ -33,6 +33,8 @@ Warning: It's litteraly **impossible** to return a name and first name with a pl
 This OSINT Tool was created in Python3, so make **sure you have python installed on your computer**
     
     `https://www.python.org/downloads/`
+    
+MySiv also work using Google Chrome Software, so make **sure you have an updated version of Google Chrome installed on your computer**
 
 The python modules required are :
 ```python
