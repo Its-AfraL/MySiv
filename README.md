@@ -14,11 +14,11 @@ Warning: It's litteraly **impossible** to return a name and first name with a pl
 
 1. Fork/Clone/Download this repo
 
-    `git clone https://github.com/Datalux/Osintgram.git`
+    `git clone https://github.com/Its-AfraL/MySiv.git`
 
 2. Navigate to the directory
 
-    `cd Osintgram`
+    `cd MySiv`
 
 3. Start install.bat or use pip to download requirements
   
